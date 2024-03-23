@@ -1,3 +1,7 @@
+---
+description: YMTの説明
+---
+
 # YMT(Yamato DAO Token)
 
 ## YMTとは？
@@ -12,10 +16,7 @@ YMT（Yamato DAO Token）は、Yamato Protocolに付随するユーティリテ�
 
 コントラクトアドレス：
 
-DEXリンク：\
-
-
-
+DEXリンク：
 
 ### アロケーション
 
@@ -34,7 +35,7 @@ DEXリンク：\
 
 ## veYMTとは？
 
-veYMTとはYMTをロックすることで得られる転送不可のトークンです。
+veYMT（voting escrow YMT）とはYMTをロックすることで得られる転送不可のトークンです。
 
 最長4年のロックで1YMT＝1veYMTです。
 
@@ -46,8 +47,6 @@ veYMTとはYMTをロックすることで得られる転送不可のトークン
 
 ### veYMTの用途
 
-ファーミングブースト
-
-YMT分配投票
-
-間接的なプロトコルfeeの獲得（Yamato償還による担保の分配）
+* Yamato Protocolのガバナンス投票
+* YMTファーミングのブースト
+* プロトコルfeeの獲得（Yamato償還による担保の分配）

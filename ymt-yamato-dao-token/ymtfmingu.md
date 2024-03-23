@@ -1,14 +1,10 @@
 # YMTファーミング
 
-{% hint style="info" %}
-v1.5にて実装予定
-{% endhint %}
-
 Yamato Protocolを利用することでYMTを取得することができます。
 
+これはユーザーリワードとして総発行量の55%がアロケートされていて、初年度5.5%、年次10%逓減で配布されます。
+
 ## ファーミングの方法 <a href="#fmingunorru" id="fmingunorru"></a>
-
-
 
 評価基準は「**CJPY借入額**」です。
 
