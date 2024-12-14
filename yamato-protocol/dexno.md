@@ -12,9 +12,15 @@
 
 
 
-1. Curve（主力）
-   * CJPY-JPY
-   *
+2. Curve（主力）
+
+・ETH/CJPY
+
+[https://curve.fi/#/ethereum/pools/factory-twocrypto-5/deposit](https://curve.fi/#/ethereum/pools/factory-twocrypto-5/deposit)
+
+・crvUSD/CJPY
+
+[https://curve.fi/#/ethereum/pools/factory-twocrypto-4/deposit](https://curve.fi/#/ethereum/pools/factory-twocrypto-4/deposit)
 
 　
 
