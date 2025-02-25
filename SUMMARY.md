@@ -16,7 +16,7 @@
   * [担保預入と担保引出](yzgaido/to.md)
   * [CJPY借入とCJPY返済](yzgaido/cjpytocjpy.md)
   * [DEXでのCJPYトレード](yzgaido/dexdenocjpytordo.md)
-* [YMT(Yamato DAO Token)](ymt-yamato-dao-token/README.md)
+* [YMT（Yamato DAO Token）](ymt-yamato-dao-token/README.md)
   * [veYMTでできること](ymt-yamato-dao-token/veymtdedekirukoto.md)
   * [YMTファーミング](ymt-yamato-dao-token/ymtfmingu.md)
   * [担保率とveYMTによるファーミングブースト](ymt-yamato-dao-token/toveymtniyorufmingubsuto.md)

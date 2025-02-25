@@ -2,11 +2,11 @@
 description: YMTの説明
 ---
 
-# YMT(Yamato DAO Token)
+# YMT（Yamato DAO Token）
 
 ## YMTとは？
 
-YMT（Yamato DAO Token）は、Yamato Protocolに付随するユーティリティトークンです。
+YMT（Yamato DAO Token）は、Yamato Protocolに付随するユーティリティトークン（ERC20）です。
 
 総供給の55％は、Yamatoを使ってCJPYを借りることで分配されます。
 
