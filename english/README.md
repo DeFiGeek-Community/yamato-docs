@@ -9,7 +9,7 @@ description: >-
 
 ## What is Yamato Protocol？
 
-Yamato Protocol [https://app.yamato.fi/#/](https://app.yamato.fi/#/) is a decentralized and non-custodial CDP platform developed by DeFiGeek Community Japan [https://defigeek.xyz/en/](https://defigeek.xyz/en/)
+Yamato Protocol [https://app.yamato.fi/#/?lang=en](https://app.yamato.fi/#/?lang=en) is a decentralized and non-custodial CDP platform developed by DeFiGeek Community Japan [https://defigeek.xyz/en/](https://defigeek.xyz/en/)
 
 CJPY serves as an ETH overcollateralized stablecoin designed to maintain a peg to the Japanese Yen. In the future, the Yamato protocol will expand to encompass various tokens as collateral, and a diverse range of fiat stablecoins will be introduced, initially including USD and EUR pegs.
 
