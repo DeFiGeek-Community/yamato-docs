@@ -6,11 +6,11 @@
 
 ・ETH/CJPY
 
-[https://curve.fi/#/ethereum/pools/factory-twocrypto-5/deposit](https://curve.fi/#/ethereum/pools/factory-twocrypto-5/deposit)
+[https://www.curve.finance/#/ethereum/pools/factory-twocrypto-5/deposit](https://www.curve.finance/dex/ethereum/pools/factory-twocrypto-5/deposit/)
 
 ・crvUSD/CJPY
 
-[https://curve.fi/#/ethereum/pools/factory-twocrypto-4/deposit](https://curve.fi/#/ethereum/pools/factory-twocrypto-4/deposit)
+[https://www.curve.finance/dex/ethereum/pools/factory-twocrypto-4/deposit/](https://www.curve.finance/dex/ethereum/pools/factory-twocrypto-4/deposit/)
 
 
 
