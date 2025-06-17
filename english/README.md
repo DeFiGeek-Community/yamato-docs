@@ -7,6 +7,8 @@ description: >-
 
 # Yamato Protocol
 
+[Official site](https://app.yamato.fi/#/)
+
 ## What is Yamato Protocol？
 
 Yamato Protocol [https://app.yamato.fi/#/?lang=en](https://app.yamato.fi/#/?lang=en) is a decentralized and non-custodial CDP platform developed by DeFiGeek Community Japan [https://defigeek.xyz/en/](https://defigeek.xyz/en/)
