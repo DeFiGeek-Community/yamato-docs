@@ -7,7 +7,7 @@ description: >-
 
 # Yamato Protocol
 
-[Official site](https://app.yamato.fi/#/)
+[Official site (English)](https://app.yamato.fi/#/?lang=en)
 
 ## What is Yamato Protocol？
 
