@@ -14,7 +14,7 @@ YMT（Yamato DAO Token）は、Yamato Protocolに付随するユーティリテ�
 
 ティッカー：YMT
 
-コントラクトアドレス：
+コントラクトアドレス：[0x0F4Fc7d24F28C4373097733aAE53f0025D4c9C09](https://etherscan.io/address/0x0f4fc7d24f28c4373097733aae53f0025d4c9c09)
 
 DEXリンク：
 
