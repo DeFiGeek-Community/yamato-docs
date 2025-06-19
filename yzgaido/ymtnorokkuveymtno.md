@@ -45,5 +45,28 @@ veYMTのページは、こちらの[リンク](https://ve.yamato.fi/)からも�
 
 <figure><img src="../.gitbook/assets/Group 3.png" alt=""><figcaption></figcaption></figure>
 
+以下、メタマスクの画面を例にご説明します。
 
+下図のような承認画面が表示されます。
 
+使用上限、手数料などをご確認の上、下部の確認ボタンを押してください。
+
+<figure><img src="../.gitbook/assets/スクリーンショット 2025-06-19 21.15.54.png" alt=""><figcaption></figcaption></figure>
+
+承認トランザクションが成功すると、すぐに送金確認画面が表示されます。
+
+送金額、手数料などをご確認の上、下部の確認ボタンを押してください。
+
+<figure><img src="../.gitbook/assets/スクリーンショット 2025-06-19 21.17.00.png" alt=""><figcaption></figcaption></figure>
+
+送金トランザクションが成功しますと、以下のようにMy YMT Portfolio内の表示が変わります。
+
+veYMTの残高、ロックしたYMTの量、ロック終了日時が期待通りかご確認ください。
+
+<figure><img src="../.gitbook/assets/Group 4.png" alt=""><figcaption></figcaption></figure>
+
+念の為、ご自身のウォレット内のYMT、veYMTの表示もご確認ください。
+
+YMTの残高は減り、veYMTの残高は増えているはずです。
+
+これでYMTのロック（veYMTの取得）が完了です！🎉
