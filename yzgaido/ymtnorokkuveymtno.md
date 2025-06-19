@@ -70,3 +70,32 @@ veYMTの残高、ロックしたYMTの量、ロック終了日時が期待通り
 YMTの残高は減り、veYMTの残高は増えているはずです。
 
 これでYMTのロック（veYMTの取得）が完了です！🎉
+
+\
+【ロック額を増額したい場合】
+
+My YMT Portfolio内の「ロック額を増額」ボタンをクリックしてください。
+
+<figure><img src="../.gitbook/assets/Group 5.png" alt=""><figcaption></figcaption></figure>
+
+入力欄に増やしたいロック額を入力してください。
+
+お持ちのYMTを全てロックしたい場合は、残高をクリックされますと簡単に入力できます。
+
+<figure><img src="../.gitbook/assets/スクリーンショット 2025-06-19 21.49.40.png" alt=""><figcaption></figcaption></figure>
+
+入力が終わりましたら、承認がお済みでない方は承認から、お済みの方は送金処理にお進みください。
+
+送金トランザクション成功後、My YMT Portfolio内の残高などの表示をご確認ください。
+
+【ロック期間を延長したい場合】
+
+My YMT Portfolio内の「ロック期間を延長」ボタンをクリックしてください。
+
+<figure><img src="../.gitbook/assets/Group 6.png" alt=""><figcaption></figcaption></figure>
+
+延長したいロック期間を選択して、下部の「ロックする」ボタンをクリックしてください。
+
+<figure><img src="../.gitbook/assets/スクリーンショット 2025-06-19 22.00.21.png" alt=""><figcaption></figcaption></figure>
+
+トランザクション成功後、My YMT Portfolio内のロック終了日時や残高などが変化しているご確認ください。
