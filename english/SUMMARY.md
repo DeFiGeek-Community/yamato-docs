@@ -15,6 +15,8 @@
   * [Deposit & Withdrawal(ETH)](user-guide/deposit-and-withdrawal-eth.md)
   * [CJPY Borrowing & Repayment](user-guide/cjpy-borrowing-and-repayment.md)
   * [Trade CJPY on DEX](user-guide/trade-cjpy-on-dex.md)
+  * [Lock YMT](user-guide/lock-ymt.md)
+  * [Claim rewards](user-guide/claim-reward.md)
 * [YMT(Yamato DAO Token)](ymt-yamato-dao-token/README.md)
   * [YMT,veYMT](ymt-yamato-dao-token/ymt-veymt.md)
   * [YMT farming](ymt-yamato-dao-token/ymt-farming.md)
