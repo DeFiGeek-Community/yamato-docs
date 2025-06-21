@@ -34,7 +34,7 @@ When the currently claimable amount is not 0 YMT, the "Claim" button at the bott
 
 Click the button.
 
-<figure><img src="../assets/Group 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../assets/Group 7.png" alt=""><figcaption></figcaption></figure>
 
 Once the wallet popup appears, check the claim amount and gas fee, then proceed with the claim transaction.
 
@@ -58,7 +58,7 @@ In the middle of the veYMT interface, there is a section titled "YMT Portfolio."
 
 When the YMT reward or Fee reward is not 0, the respective "Claim" buttons within the section become active. Click them.
 
-<figure><img src="../assets/Group 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../assets/Group 8.png" alt=""><figcaption></figcaption></figure>
 
 Once the wallet popup appears, check the claim amount and gas fee, then proceed with the claim transaction.
 
