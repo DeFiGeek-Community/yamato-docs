@@ -17,7 +17,6 @@
   * [Trade CJPY on DEX](user-guide/trade-cjpy-on-dex.md)
 * [YMT(Yamato DAO Token)](ymt-yamato-dao-token/README.md)
   * [YMT,veYMT](ymt-yamato-dao-token/ymt-veymt.md)
-  * [veYMT](ymt-yamato-dao-token/veymt.md)
   * [YMT farming](ymt-yamato-dao-token/ymt-farming.md)
   * [Boost: Health Rate & veYMT](ymt-yamato-dao-token/boost-health-rate-and-veymt.md)
   * [veYMT gauge voting](ymt-yamato-dao-token/veymt-gauge-voting.md)
